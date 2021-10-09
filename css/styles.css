@@ -1,10 +1,7 @@
-#hdr1 {
-  text-align: center;
-  text-decoration: underline;
-}
 .mid-head {
   text-align: center;
   margin-bottom: 8px;
+  text-decoration: underline;
 }
 .back-card {
   background-color: #00bfff;
