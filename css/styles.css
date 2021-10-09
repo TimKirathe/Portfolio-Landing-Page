@@ -5,10 +5,14 @@
 }
 .mid-head {
   text-align: center;
+  margin-bottom: 10px;
 }
 .back-card {
   background-color: #00bfff;
 }
 .back-body {
   background-color: #8fbc8f;
+}
+.head-display {
+  text-align: center;
 }
