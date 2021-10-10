@@ -11,4 +11,16 @@
 }
 .head-display {
   text-align: center;
+  border-bottom: 3px solid black;
+}
+.img1 {
+  float: left;
+}
+@media screen and (max-width: 767px) {
+  .back-body {
+    background-color: #dcdcdc;
+  }
+  .back-card {
+    background-color: #f0f8ff;
+  }
 }
